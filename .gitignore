@@ -1,0 +1,6 @@
+# Ignore logs and packet capture files
+h1_capture.pcap
+h2_capture.pcap
+receiver_capture.pcap
+__pycache__/
+*.log
